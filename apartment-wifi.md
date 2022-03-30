@@ -2,12 +2,8 @@
 
 Wi-Fi Name:
 
-**NougatoWifi**
+**NoCapisco**
 
 Password:
 
-**!12Monkeys**
-
-!> Please note that this listing is advertised without Wi-Fi.
-
-In fact, there is a Wi-Fi connection and you are welcome to use it; however we cannot guarantee a fast connection.
+**12Monkeys**

@@ -1,8 +1,8 @@
 - Getting started
   - [Getting Here](getting-here.md)
   - [House Rules](basic-rules.md)
-- The House
-  
+  - [Getting Around](getting-around.md)
+- The Apartment
   - [Wifi](apartment-wifi.md)
   - [Kitchen](cooking.md)
   - [Groceries](groceries.md)

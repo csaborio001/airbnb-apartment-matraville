@@ -1,13 +1,13 @@
-# Newly Renovated Historic Beechworth Home
+# Zetland Apartment Guide
 
-> Last Update: Feb 28, 2022
+> Last Update: March 30, 2022
 
 <div class="image-container">
-    <img src="img/readme/08-squashed.jpg" class="front-image" />
+    <img src="img/readme/zetland.jpg" class="front-image" />
 </div>
 
 <div class="centered-header">
-    <h1>Welcome to Beechworth!</h1>
+    <h1>Welcome to Zetland!</h1>
 </div>
 
 We're very excited to welcome you to our AirBnB!
@@ -18,14 +18,4 @@ the house and neighborhood.
 The menu to the left contains the main sections of the document (if you are on mobile, the menu can be invoked by clicking
 on the blue square with yellow lines in the upper left corner).
 
-If you have any questions please contact us anytime!
-
-## Your Hosts
-
-### Rikki Raadsveld
-
-Rikki is local to Beechworth and takes care of our guests needs.
-
-### Christian Saborio
-
-Christian lives in Sydney and will be your main point of contact when using the AirBnB application to chat.
+If you have any questions please contact me anytime!
