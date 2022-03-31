@@ -19,10 +19,11 @@ There are various ways to collect the keys:
 The house address is:
 
 <a target="_blank" href="https://goo.gl/maps/Cnk4LWigzBD7j9LW7">47/22 Gadigal Avenue <br />
-Zetland NSW 2017<br />47/22 Gadigal Avenue
-Zetland NSW 2017
-Australia
-Australia</a>
+Zetland NSW 2017<br />Australia</a>
+
+Using the FOB, come in through the glass doors an and make your way to the lifts.
+
+Come up to the **ninth** floor and enter unit 47.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.3824488421396!2d151.21010451521124!3d-33.90555518064609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12b159774d4fa3%3A0xdd00c4cb33a893c4!2s47%2F22%20Gadigal%20Ave%2C%20Zetland%20NSW%202017!5e0!3m2!1sen!2sau!4v1648638669254!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

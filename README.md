@@ -1,6 +1,6 @@
 # Zetland Apartment Guide
 
-> Last Update: March 30, 2022
+> Last Update: March 31, 2022
 
 <div class="image-container">
     <img src="img/readme/zetland.jpg" class="front-image" />
