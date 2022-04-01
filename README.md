@@ -19,3 +19,4 @@ The menu to the left contains the main sections of the document (if you are on m
 on the blue square with yellow lines in the upper left corner).
 
 If you have any questions please contact me anytime!
+* Added intercom info

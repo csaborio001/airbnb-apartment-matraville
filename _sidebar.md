@@ -5,6 +5,7 @@
   - [The Floor Issue](the-floor-issue.md)
 - The Apartment
   - [Wifi](apartment-wifi.md)
+  - [Intercom](intercom.md)
     [Rooms](rooms.md)
   - [Kitchen](cooking.md)
   - [Groceries](groceries.md)
