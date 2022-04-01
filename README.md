@@ -1,6 +1,6 @@
 # Zetland Apartment Guide
 
-> Last Update: March 31, 2022
+> Last Update: April 2, 2022
 
 <div class="image-container">
     <img src="img/readme/zetland.jpg" class="front-image" />
@@ -20,3 +20,4 @@ on the blue square with yellow lines in the upper left corner).
 
 If you have any questions please contact me anytime!
 * Added intercom info
+* Date modified change
