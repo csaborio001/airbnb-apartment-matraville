@@ -2,7 +2,6 @@
   - [Getting Here](getting-here.md)
   - [House Rules](basic-rules.md)
   - [Getting Around](getting-around.md)
-  - [The Floor Issue](the-floor-issue.md)
 - The Apartment
   - [Wifi](apartment-wifi.md)
   - [Intercom](intercom.md)
