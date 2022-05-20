@@ -2,8 +2,8 @@
 
 Wi-Fi Name:
 
-**NoCapisco**
+**Bouskila Guest**
 
 Password:
 
-**12Monkeys**
+**16StewartAvenue**
