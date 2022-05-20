@@ -7,7 +7,7 @@
 </div>
 
 <div class="centered-header">
-    <h1>Welcome to Zetland!</h1>
+    <h1>Welcome to Matraville!</h1>
 </div>
 
 We're very excited to welcome you to our AirBnB!
